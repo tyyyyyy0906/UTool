@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>psblack.css</file>
+        <file>flatwhite.css</file>
+    </qresource>
+</RCC>
