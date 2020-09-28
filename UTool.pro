@@ -33,8 +33,8 @@ SOURCES += \
 HEADERS +=
 
 FORMS += \
-    hsaeencrypttool.ui \
-    hsaemessagebox.ui
+    $$PWD/ui/hsaeencrypttool.ui \
+    $$PWD/ui/hsaemessagebox.ui
 
 RESOURCES += \
         $$PWD/image/main.qrc \

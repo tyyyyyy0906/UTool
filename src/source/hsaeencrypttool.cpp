@@ -49,10 +49,10 @@ SOFTWARE.
 #include <openssl/ssl.h>
 
 #define MSG_LEN 1024
-#define clientVersion ""
+#define clientVersion "HONDA-release"
 #define COMPARE_VERSION "HS-V7630W_V9999_20201231"
 
-static QString honda_version[] = {
+static const QString honda_version[] = {
     "HS-V7630_V4001-20200901"
 };
 
